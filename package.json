@@ -1,0 +1,22 @@
+{
+  "name": "dfmt",
+  "version": "1.0.0",
+  "description": "date format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "date",
+    "format"
+  ],
+  "author": "junyiz",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junyiz/dfmt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/junyiz/dfmt/issues"
+  },
+  "license": "MIT"
+}
